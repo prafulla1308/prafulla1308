@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professor Profile - Home</title>
+    <style>
+        nav {
+            background-color: #f4f4f4;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #007BFF;
+        }
+        h1 {
+            text-align: center;
+            margin-top: 50px;
+        }
+        p {
+            text-align: center;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="teaching.html">Teaching</a>
+        <a href="research.html">Research</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact Us</a>
+    </nav>
+    <h1>Welcome to Professor's Profile</h1>
+    <p>This is the home page. Learn more about teaching, research, projects, and get in touch with the professor.</p>
+</body>
+</html>
